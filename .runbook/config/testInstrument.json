@@ -1,0 +1,17 @@
+{
+  "instrument": {
+    "jstest/test": {
+      "type":        "js",
+      "repo":        "git@github.com:run-book/testRepo1.git",
+      "command":     "testInstrument",
+      "description": "This will (when working) just aggregate the params",
+      "params":      {
+        "protocol": {"description": "A protocol", "default": "http"},
+        "domain":   {"description": "The domain"},
+        "port":     {"description": "The port"}
+      },
+      "staleness":   5000,
+      "cost":        "low"
+    }
+  }
+}
