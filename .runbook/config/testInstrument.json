@@ -1,8 +1,8 @@
 {
   "instrument": {
-    "jstest/test": {
+    "jstest/test2": {
       "type":        "js",
-      "repo":        "git@github.com:run-book/testRepo1.git",
+      "repo":        "git@github.com:run-book/testRepo2.git",
       "command":     "testInstrument",
       "description": "This will (when working) just aggregate the params",
       "params":      {
