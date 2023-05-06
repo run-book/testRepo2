@@ -1,1 +1,1 @@
-Script instruments are a type of instrument that gets their data by executing a script
+This is testRepo2: used to test the functionality of the git commands in runbook
